@@ -1,1 +1,1 @@
-# animated-template
+# Animated Template
